@@ -130,45 +130,6 @@ Data Table
 
 ---
 
-## 6. Alerts by Severity
-
-### Description
-
-Displays the distribution of alerts by severity.
-
-### Severity Levels
-
-- Critical
-- High
-- Medium
-- Low
-
-### Purpose
-
-Allows analysts to quickly prioritize high-risk security events.
-
-### Visualization
-
-Donut Chart
-
----
-
-## 7. Top Source IP Addresses
-
-### Description
-
-Displays the source IP addresses responsible for AWS API activity.
-
-### Purpose
-
-Provides investigation context by identifying where AWS management activity originated.
-
-### Visualization
-
-Horizontal Bar Chart
-
----
-
 # Dashboard Workflow
 
 ```
