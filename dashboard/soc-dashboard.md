@@ -235,18 +235,6 @@ This dashboard demonstrates experience with:
 
 ---
 
-## Alerts by Severity
-
-*(Insert screenshot)*
-
----
-
-## Top Source IP Addresses
-
-*(Insert screenshot)*
-
----
-
 # Summary
 
 This dashboard provides centralized visibility into AWS CloudTrail activity and custom detection alerts using Elastic SIEM. By combining AWS audit logs, custom KQL detections, and analyst-focused visualizations, the dashboard supports rapid identification and investigation of suspicious cloud activity while demonstrating practical SOC monitoring and cloud security operations.
