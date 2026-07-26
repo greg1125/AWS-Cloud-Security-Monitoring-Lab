@@ -1,5 +1,7 @@
 # Assume Role Detection
 
+![IAM Role Assumed Detection](01a-iam-role-assumed.png)
+
 ## Overview
 
 Detects AWS IAM role assumption.
