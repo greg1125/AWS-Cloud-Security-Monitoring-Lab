@@ -1,5 +1,7 @@
 # Root Console Login Detection
 
+![Root Console Login Detection](08a-root-console-login.png)
+
 ## Overview
 
 Detects successful AWS root account logins.
