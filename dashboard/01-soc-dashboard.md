@@ -213,37 +213,6 @@ This dashboard demonstrates experience with:
 
 ---
 
-# Dashboard Screenshots
-
-## Complete SOC Dashboard
-
-*(Insert full dashboard screenshot)*
-
----
-
-## Detection Alert Table
-
-*(Insert screenshot)*
-
----
-
-## CloudTrail Activity Timeline
-
-*(Insert screenshot)*
-
----
-
-## Top AWS API Calls
-
-*(Insert screenshot)*
-
----
-
-## Top IAM Identities
-
-*(Insert screenshot)*
-
----
 
 # Summary
 
