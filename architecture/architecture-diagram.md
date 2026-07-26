@@ -1,5 +1,7 @@
 # AWS Cloud Infrastructure and Elastic SIEM Architecture
 
+![AWS Cloud Infrastructure and Elastic SIEM Architecture](Aws-Architecture.png)
+
 ## Overview
 
 This document explains the architecture of the **AWS Cloud Security Monitoring Lab**.
