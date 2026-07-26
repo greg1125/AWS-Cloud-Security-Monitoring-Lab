@@ -1,5 +1,7 @@
 # Delete CloudTrail Detection
 
+![Delete CloudTrail Detection](06a-aws-delete-trail.png)
+
 ## Overview
 
 Detects deletion of CloudTrail trails.
