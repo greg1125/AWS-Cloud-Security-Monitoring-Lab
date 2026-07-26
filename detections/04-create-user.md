@@ -1,5 +1,7 @@
 # IAM User Created Detection
 
+![IAM User Created Detection](04a-iam-user-created.png)
+
 ## Overview
 
 Detects creation of IAM users.
