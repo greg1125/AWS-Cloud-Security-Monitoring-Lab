@@ -1,5 +1,7 @@
 # IAM User Deleted Detection
 
+![Delete IAM User Detection](07a-aws-delete-user.png)
+
 ## Overview
 
 Detects deletion of IAM users.
