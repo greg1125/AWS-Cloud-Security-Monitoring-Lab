@@ -1,5 +1,7 @@
 # Create Access Key Detection
 
+![Create Access Key Detection](03a-create-access-key.png)
+
 ## Overview
 
 Detects the creation of new IAM access keys.
