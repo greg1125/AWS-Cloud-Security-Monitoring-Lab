@@ -1,5 +1,7 @@
 # Attach Administrator Policy Detection
 
+![Attach Administrator Policy Detection](02a-attach-admin-policy.png)
+
 ## Overview
 
 Detects AdministratorAccess policy attachment to IAM users.
