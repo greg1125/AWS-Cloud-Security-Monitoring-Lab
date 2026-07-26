@@ -1,5 +1,7 @@
 # Security Group Changes Detection
 
+![Security Group Modified Detection](09a-security-group-modified.png)
+
 ## Overview
 
 Detects inbound security group modifications.
