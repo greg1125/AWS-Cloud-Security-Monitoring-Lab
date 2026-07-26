@@ -1,5 +1,5 @@
 # SOC Dashboard
-
+![AWS SOC Dashboard](soc-dashboard-aws.png)
 ## Overview
 
 The SOC Dashboard provides centralized visibility into AWS CloudTrail activity and custom detection alerts within Elastic SIEM. It is designed to emulate a Security Operations Center (SOC) workflow by combining high-level metrics, threat detections, and investigative context into a single dashboard.
@@ -22,6 +22,8 @@ The dashboard enables analysts to monitor AWS management activity, identify susp
 
 ## 1. Total CloudTrail Events
 
+![Total CloudTrail Events](total-cloudtrail-events.png)
+
 ### Description
 
 Displays the total number of CloudTrail events within the selected time range.
@@ -38,6 +40,8 @@ Metric
 
 ## 2. CloudTrail Activity Timeline
 
+![CloudTrail Activity Timeline](cloudtrail-activity-timeline.png)
+
 ### Description
 
 Displays CloudTrail events over time.
@@ -53,6 +57,8 @@ Area Chart
 ---
 
 ## 3. Top AWS API Calls
+
+![Top AWS API Calls](top-aws-api-calls.png)
 
 ### Description
 
@@ -81,6 +87,8 @@ Horizontal Bar Chart
 
 ## 4. Top IAM Identities
 
+![Top IAM Users](top-iam-users.png)
+
 ### Description
 
 Displays the IAM users and roles responsible for AWS activity.
@@ -102,6 +110,8 @@ Horizontal Bar Chart
 ---
 
 ## 5. Detection Alert Table
+
+![AWS Security Alerts](aws-security-alert.png)
 
 ### Description
 
