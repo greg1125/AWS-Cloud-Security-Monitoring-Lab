@@ -236,7 +236,6 @@ AWS-Cloud-Security-Monitoring-Lab
 ├── architecture/
 ├── detections/
 ├── dashboard/
-└── screenshots/
 ```
 
 ---
