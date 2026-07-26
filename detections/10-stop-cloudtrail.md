@@ -1,5 +1,7 @@
 # Stop CloudTrail Detection
 
+![Stop CloudTrail Detection](10a-stop-cloudtrail.png)
+
 ## Overview
 
 Detects CloudTrail logging being disabled.
