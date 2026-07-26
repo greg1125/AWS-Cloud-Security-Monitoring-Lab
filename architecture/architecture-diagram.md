@@ -1,6 +1,6 @@
 # AWS Cloud Infrastructure and Elastic SIEM Architecture
 
-![AWS Cloud Infrastructure and Elastic SIEM Architecture](Aws-Architecture.png)
+![AWS Cloud Infrastructure and Elastic SIEM Architecture](aws-architecture.png)
 
 ## Overview
 
