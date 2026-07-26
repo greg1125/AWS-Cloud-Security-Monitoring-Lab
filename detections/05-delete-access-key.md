@@ -1,5 +1,7 @@
 # Delete Access Key Detection
 
+![Delete Access Key Detection](05a-delete-access-key.png)
+
 ## Overview
 
 Detects deletion of IAM access keys.
